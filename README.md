@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ariqmuh&label=Profile%20views&color=0e75b6&style=flat" alt="ariqmuh" /> </p>
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://github.com/ariqmuh/Portfolios)
-- 📫 How to reach me **muhammad.ariq15@gmail.com**
+- 📫 How to reach me <**muhammad.ariq15@gmail.com**>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
